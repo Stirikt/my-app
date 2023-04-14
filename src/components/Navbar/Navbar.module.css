@@ -1,0 +1,19 @@
+
+
+.nav {
+    grid-area: n;
+    background-color: rgba(10, 73, 92, 0.911);
+  
+  }
+
+  .item a {
+  color: white;
+  }
+
+  
+
+  .active-link {
+   
+    color: var(--color-active);
+    cursor: default;
+  }
